@@ -3,3 +3,8 @@ Esta es l historia de David
 David tiene 20 años y está estudiando física. Nacido en Perú
 
 Hoy practicaremos Git y Github.
+
+linea 7
+
+
+linea 8
